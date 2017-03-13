@@ -81,4 +81,4 @@ public class Mongo1 {
                Double st=doc.getDouble("student");
                System.out.println(s+" "+st);
     }
-}
+}  
